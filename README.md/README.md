@@ -12,3 +12,8 @@ Jadi, kami berangkat untuk mengidentifikasi kasus penggunaan terbaik untuk async
 
 oleh :
 AYU WIDYA INGGIT
+
+link :
+https://github.com/ayuwidyainggit/pbd-async/tree/master/asynck-await 
+https://github.com/ayuwidyainggit/pbd-async/tree/master/callback
+https://github.com/ayuwidyainggit/pbd-async/tree/master/promise
